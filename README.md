@@ -14,11 +14,11 @@
   </kbd>
   
   <kbd>
-   <img src="./icons8-sql-48.png" height="40" width="40" alt="sql" />
+   <img src="./icons8-postgresql-48.png" height="40" width="40" alt="postgresql" />
   </kbd>
 
   <kbd>
-   <img src="./icons8-docker-48.png" height="40" width="40" alt="sql" />
+   <img src="./icons8-docker-48.png" height="40" width="40" alt="docker" />
   </kbd>
 
   
