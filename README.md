@@ -25,7 +25,7 @@
 
  ##
 
- <img align="right" width="300" src="./gifFsociety.gif" alt="gifFsociety.gif">
+ <img align="right" width="150" src="./gifFsociety.gif" alt="gifFsociety.gif">
 
 
 
